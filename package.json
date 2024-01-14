@@ -1,0 +1,19 @@
+{
+  "name": "jelou-automation-e2e",
+  "version": "1.0.0",
+  "description": "Repositorio para el proyecto de pruebas E2E",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "dependencies": {
+    "@applitools/eyes-playwright": "^1.23.5"
+  }
+}
